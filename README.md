@@ -1,2 +1,2 @@
 # askdocs
-General questions
+General questions for the staffs and students who want to find the gov documents.
